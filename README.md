@@ -1,1 +1,3 @@
-# full-stack-web-application-scaffold-336879
+# Project Repository
+
+This is the initial README file for the project.
